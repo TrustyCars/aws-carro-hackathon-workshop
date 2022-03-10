@@ -16,8 +16,8 @@ If you wish to run the notebook, please copy the audio files following the direc
 ├── ...
 ├── Acoustic                
 │   ├── data 
-|        ├── rock                           # contains rock music audio files
-|        ├── classical                      # contains classical music audio files
+│        ├── rock                           # contains rock music audio files
+│        ├── classical                      # contains classical music audio files
 │   ├── Acoustic Workshop notebook.ipynb        
 │   └── img                                 # contains images used in the notebook
 └── ...
