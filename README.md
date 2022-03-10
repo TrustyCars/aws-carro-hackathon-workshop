@@ -1,1 +1,1 @@
-# aws-carro-hackathon-workshop
+# AWS-Carro Hackathon Workshop Materials
